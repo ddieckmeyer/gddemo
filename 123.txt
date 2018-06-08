@@ -1,2 +1,3 @@
 another change in the text
-123 edit 2
+123 
+adding another line and removing some of the one before
